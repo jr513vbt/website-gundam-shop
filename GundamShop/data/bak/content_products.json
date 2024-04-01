@@ -1,0 +1,302 @@
+{
+    "RGM_79D_GM_COLD_DISTRICTS_TYPE_HGUC": {
+        "en": {
+            "header": "RGM-79D GM COLD DISTRICTS TYPE - HGUC 1/144",
+            "detail": "Series: Gundam 0080 War in the Pocket; Equipment: TYPE-2 90mm Bullpup Machine Gun, Beam Saber, Shield; Moderate detail, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi": {
+            "header": "RGM-79D GM COLD DISTRICTS TYPE - HGUC 1/144",
+            "detail": "Thuộc Series: Gundam 0080 War in the Pocket; Trang bị: TYPE-2 90mm Bullpup Machine Gun, Beam Saber, Shield; Độ chi tiết vừa phải, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "PENELOPE_HGUC": {
+        "en": {
+            "header": "PENELOPE (HGUC - 1/144)",
+            "detail": "Series: Gundam Hathaway's Flash; Equipment: Beam Rifle, Beam Saber x2, Shield x2; RX-104 Odysseus Gundam and FF (Fixed Flight) armor units are separable, versatile and impressive; Moderate detail, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "PENELOPE (HGUC - 1/144)",
+            "detail": "Thuộc Series: Gundam Hathaway's Flash; Trang bị: Beam Rifle, Beam Saber x2, Shield x2; RX-104 Odysseus Gundam và FF (Fixed Flight) armor unit có thể tách riêng, linh hoạt và ấn tượng; Độ chi tiết vừa phải, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "RMS_106_HI_ZACK_HGUC" : {
+        "en": {
+            "header": "RMS-106 HI-ZACK - HGUC 1/144",
+            "detail": "Belonging to Series: Mobile Suit Zeta Gundam; Equip: 120mm Zaku Machine Gun Kai, Shield, Shoulder Shield; Moderate detail, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "RMS-106 HI-ZACK - HGUC 1/144",
+            "detail": "Thuộc Series: Mobile Suit Zeta Gundam; Trang bị: 120mm Zaku Machine Gun Kai, Shield, Shoulder Shield; Độ chi tiết vừa phải, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "GUNCANNON_REVIVE_VER_HGUC" : {
+        "en": {
+            "header": "GUNCANNON (REVIVE VER.) (HGUC - 1/144)",
+            "detail": "Belonging to Series: Mobile Suit Gundam; Equipment: 240mm Cannon Set, Beam Rifle; Moderate detail, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "GUNCANNON (REVIVE VER.) (HGUC - 1/144)",
+            "detail": "Thuộc Series: Mobile Suit Gundam; Trang bị: 240mm Cannon Set, Beam Rifle; Độ chi tiết vừa phải, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "Z_GOK_EXPERIMENT_HGUC" : {
+        "en": {
+            "header": "Z'GOK EXPERIMENT (HGUC - 1/144)",
+            "detail": "Series: Gundam 0080 War in the Pocket; Moderate detail, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "Z'GOK EXPERIMENT (HGUC - 1/144)",
+            "detail": "Thuộc Series: Gundam 0080 War in the Pocket; Độ chi tiết vừa phải, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "MSM_03_GOGG _HGUC" : {
+        "en": {
+            "header": "MSM-03 GOGG - HGUC 1/144",
+            "detail": "Belonging to Series: Mobile Suit Gundam; Equipment: Iron Nail, Mega Particle Gun; Moderate detail, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header":"MSM-03 GOGG - HGUC 1/144",
+            "detail":"Thuộc Series: Mobile Suit Gundam; Trang bị: Iron Nail, Mega Particle Gun; Độ chi tiết vừa phải, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "LEIF_GUNDAM_GP04_SDW_HEROES" : {
+        "en": {
+            "header": "LEIF GUNDAM GP04 - SDW HEROES",
+            "detail": "Belonging to Series: SD Gundam World Heroes; Equipment: Dagger, Cloak, SDW Knight Strike Gundam's Shield; Low granularity, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "LEIF GUNDAM GP04 - SDW HEROES",
+            "detail": "Thuộc Series: SD Gundam World Heroes; Trang bị: Dagger, Cloak, SDW Knight Strike Gundam's Shield; Độ chi tiết thấp, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "DIAN_WEI_MASTER_GUNDAM_SD_GUNDAM_SANGOKU_SOKETSUDEN" : {
+        "en": {
+            "header": "DIAN WEI MASTER GUNDAM ( SD GUNDAM SANGOKU SOKETSUDEN )",
+            "detail": "Belonging to Series: SD Gundam World Sangoku Soketsuden; Character creation: Dien Vi (Three Kingdoms); Equipment: Unbreakable Cang War Palace; Weapons can be combined with weapons of other models in the same series; Low granularity, relatively flexible motion joints. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "ĐIỂN VI ( SD GUNDAM SANGOKU SOKETSUDEN )",
+            "detail": "Thuộc Series: SD Gundam World Sangoku Soketsuden; Tạo hình từ nhân vật: Điển Vi (Tam Quốc Chí); Trang bị: Bất Đoạn Cang Chiến Phủ; Vũ khí có thể kết hợp với vũ khí của các mẫu khác trong cùng series; Độ chi tiết thấp, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "SERGEANT_VERDE_BUSTER_GUNDAM_DX_SET_SDW_HEROES" : {
+        "en": {
+            "header": "SERGEANT VERDE BUSTER GUNDAM DX SET - SDW HEROES",
+            "detail": "Belonging to Series: SD Gundam World Heroes; Equipment: Handgun x2, Handcuffs, Shield, Baton, Power Loader Parts Set, Flight Unit Set, Leg Unit Set; Low granularity, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "SERGEANT VERDE BUSTER GUNDAM DX SET - SDW HEROES",
+            "detail": "Thuộc Series: SD Gundam World Heroes; Trang bị: Handgun x2, Handcuffs, Shield, Baton, Power Loader Parts Set, Flight Unit Set, Leg Unit Set; Độ chi tiết thấp, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "CLEOPATRA_QUBELEY_DARK_MASK_VER_SDW_HEROES" : {
+        "en": {
+            "header": "CLEOPATRA QUBELEY DARK MASK VER. - SDW HEROES",
+            "detail": "Belonging to Series: SD Gundam World Heroes; Equipment: Dark Mask, Golden Cobra Staff; Low granularity, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "CLEOPATRA QUBELEY DARK MASK VER. - SDW HEROES",
+            "detail": "Thuộc Series: SD Gundam World Heroes; Trang bị: Dark Mask, Golden Cobra Staff; Độ chi tiết thấp, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "SD_EDWARD_SECOND_V_EDWARD_TEACH_SD_GUNDAM_WORLD_HEROES" : {
+        "en": {
+            "header": "SD EDWARD SECOND V - EDWARD TEACH - SD GUNDAM WORLD HEROES",
+            "detail": "Belonging to Series: SD Gundam World Heroes; Character creation: Edward Teach; Equipment: Badinage, Mega Liar, One Eye Telescope; Low granularity, relatively flexible motion joints. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "SD EDWARD SECOND V - EDWARD TEACH - SD GUNDAM WORLD HEROES",
+            "detail": "Thuộc Series: SD Gundam World Heroes; Tạo hình từ nhân vật: Edward Teach; Trang bị: Badinage, Mega Liar, One Eye Telescope; Độ chi tiết thấp, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "UNICORN_GUNDAM_02_BANSHEE_NORN_DESTROY_MODE_SD_EX_STANDARD" : {
+        "en": {
+            "header": "UNICORN GUNDAM 02 BANSHEE NORN (DESTROY MODE) (SD EX-STANDARD)",
+            "detail": "Belonging to Series: Mobile Suit Gundam Unicorn; Equipment: Beam Magnum, Armed Armor DE; Low granularity, relatively flexible motion joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "UNICORN GUNDAM 02 BANSHEE NORN (DESTROY MODE) (SD EX-STANDARD)",
+            "detail": "Thuộc Series: Mobile Suit Gundam Unicorn; Trang bị: Beam Magnum, Armed Armor DE; Độ chi tiết thấp, khớp chuyển động tương đối linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "GAT_X105_AQM_E_X01_AILE_STRIKE_GUNDAM_RG.pngGAT_X105_AQM_E_X01_AILE_STRIKE_GUNDAM_RG" : {
+        "en": {
+            "header": "GAT-X105 AQM/E-X01 AILE STRIKE GUNDAM - RG - 1/144",
+            "detail": "There is also a standing and seated figure of Kira Yamato in the cockpit; Cavity opening can be performed in many positions; The jet wing on the back has a beautiful and detailed design; Equipment: Shield, beam rifle, 2 beam sabers, 2 daggers; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "GAT-X105 AQM/E-X01 AILE STRIKE GUNDAM - RG - 1/144",
+            "detail": "Có figure Kira Yamato ở dạng đứng và ngồi trong khoang lái; Có thể thực hiện mở khoang ở nhiều vị trí; Phần cánh phản lực phía sau lưng thiết kế đẹp, chi tiết; Trang bị: Khiên chắn, beam rifle, 2 beam saber, 2 dao găm; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "UNICORN_GUNDAM_RG" : {
+        "en": {
+            "header": "UNICORN GUNDAM (RG - 1/144)",
+            "detail": "Belonging to Series: Mobile Suit Gundam Unicorn; Equipment: Beam Magnum, Hyper Bazooka, Beam Saber, Shield; Switching between Unicorn Mode and Destroy Mode is impressive thanks to the new matching mechanism, optimized for small proportions; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "UNICORN GUNDAM (RG - 1/144)",
+            "detail": "Thuộc Series: Mobile Suit Gundam Unicorn; Trang bị: Beam Magnum, Hyper Bazooka, Beam Saber, Shield; Chuyển đổi được giữa Unicorn Mode và Destroy Mode rất ấn tượng nhờ vào cơ chế khớp mới, thiết kế tối ưu cho tỷ lệ nhỏ; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "RX_93_NU_GUNDAM_VGUNDAM_RG" : {
+        "en": {
+            "header": "RX-93 NU GUNDAM - VGUNDAM - RG - 1/144",
+            "detail": "Belonging to Series: Mobile Suit Gundam: Char's Counterattack; Equipment: Beam Rifle, Beam Saber x2, Large Beam Saber, New Hyper Bazooka, Shield (beam cannon), Fin Funnel x6, Missiles; Fin Funnels can be separated, working independently, beautifully; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "RX-93 NU GUNDAM - VGUNDAM - RG - 1/144",
+            "detail": "Thuộc Series: Mobile Suit Gundam: Char's Counterattack; Trang bị: Beam Rifle, Beam Saber x2, Large Beam Saber, New Hyper Bazooka, Shield (beam cannon), Fin Funnel x6, Missiles; Các Fin Funnel có thể tách riêng, hoạt động độc lập rất đẹp mắt; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "ZGMF_X42S_DESTINY_GUNDAM_RG" : {
+        "en": {
+            "header": "ZGMF-X42S DESTINY GUNDAM - RG - 1/144",
+            "detail": "Belonging to Series: Mobile Suit Gundam SEED; Equipment: Beam Rifle, Beam saber x2, Beam Boomerang x2, Beam Sword, Long Range Beam Canon, Shield, Beam Shield; The set of large, open and beautiful wings; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "ZGMF-X42S DESTINY GUNDAM - RG - 1/144",
+            "detail": "Thuộc Series: Mobile Suit Gundam SEED; Trang bị: Beam Rifle, Beam saber x2, Beam Boomerang x2, Beam Sword, Long Range Beam Canon, Shield, Beam Shield; Bộ cánh lớn, bung mở vô cùng đẹp mắt; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "RX_93_N2_HI_NU_GUNDAM_HI_VGUNDAM_RG" : {
+        "en": {
+            "header": "RX-93-N2 HI-NU GUNDAM - HI VGUNDAM - RG - 1/144",
+            "detail": "Belonging to Series: Mobile Suit Gundam; Equipment: Beam Rifle, Nu Hyper Bazooka, Shield, Beam Saber; High detail, flexible joints. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "RX-93-N2 HI-NU GUNDAM - HI VGUNDAM - RG - 1/144",
+            "detail": "Thuộc Series: Mobile Suit Gundam; Trang bị: Beam Rifle, Nu Hyper Bazooka, Shield, Beam Saber; Độ chi tiết cao, khớp chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "UNICORN_GUNDAM_02_BANSHEE_NORN_RG" : {
+        "en": {
+            "header": "UNICORN GUNDAM 02 BANSHEE NORN - RG - 1/144",
+            "detail": "Belonging to Series: Mobile Suit Gundam Unicorn; Equipment: Beam Magnum, Revolving Launcher, Beam Saber x2, Armed Armor DE, Armed Armor XC; The large, detailed, and modifiable Armed Armor DE shield is beautiful; Switching between Unicorn Mode and Destroy Mode is impressive thanks to the new matching mechanism, optimized for small proportions; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "UNICORN GUNDAM 02 BANSHEE NORN - RG - 1/144",
+            "detail": "Thuộc Series: Mobile Suit Gundam Unicorn; Trang bị: Beam Magnum, Revolving Launcher, Beam Saber x2, Armed Armor DE, Armed Armor XC; Chiếc khiên Armed Armor DE lớn, chi tiết và có thể biến đổi chế độ vô cùng đẹp mắt; Chuyển đổi được giữa Unicorn Mode và Destroy Mode rất ấn tượng nhờ vào cơ chế khớp mới, thiết kế tối ưu cho tỷ lệ nhỏ; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "MS_06R_1A_ZAKU_II_BLACK_TRI_STARS_VER20_MG" : {
+        "en": {
+            "header": "MS-06R-1A ZAKU II BLACK TRI-STARS VER.2.0 - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam; Equipment: Shoulder Shield, Zaku Bazooka, Giant Bazooka, Zaku Machine Gun, Heat Hawk; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "MS-06R-1A ZAKU II BLACK TRI-STARS VER.2.0 - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam; Trang bị: Shoulder Shield, Zaku Bazooka, Giant Bazooka, Zaku Machine Gun, Heat Hawk; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "MS_09R_RICK_DOM_MG" : {
+        "en": {
+            "header": "MS-09R RICK DOM - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam; Equipment: Beam Bazooka, Giant Bazooka, Heat Saber; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "MS-09R RICK DOM - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam; Trang bị: Beam Bazooka, Giant Bazooka, Heat Saber; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "GAT_X105_STRIKE_GUNDAM_IWSP_MG" : {
+        "en": {
+            "header": "GAT-X105 STRIKE GUNDAM IWSP - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam SEED; Equipment: Armor Schneider, Beam Rifle, Shield, Integrated Weapons Striker Pack, Anti-ship Sword, Beam Boomerang, Grand Slam Sword; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "GAT-X105 STRIKE GUNDAM IWSP - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam SEED; Trang bị: Armor Schneider, Beam Rifle, Shield, Integrated Weapons Striker Pack, Anti-ship Sword, Beam Boomerang, Grand Slam Sword; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "MS_06J_ZAKU_II_VER_20_MG" : {
+        "en": {
+            "header": "MS-06J ZAKU II VER 2.0 - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam; Equipment: Zaku Machine Gun, Bazooka, Heat Hawk, Missile Pod; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "MS-06J ZAKU II VER 2.0 - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam; Trang bị: Zaku Machine Gun, Bazooka, Heat Hawk, Missile Pod; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "MSA_003_NEMO_MG" : {
+        "en": {
+            "header": "MSA-003 NEMO - MG 1/100",
+            "detail": "Series: Mobile Suit Zeta Gundam; Equipment: Beam Saber, Beam Rifle, Shield; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "MSA-003 NEMO - MG 1/100",
+            "detail": "Series: Mobile Suit Zeta Gundam; Trang bị: Beam Saber, Beam Rifle, Shield; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "MSN_06S_SINANJU_VERKA_TITANIUM_FINISH_MG" : {
+        "en": {
+            "header": "MSN-06S SINANJU VER.KA TITANIUM FINISH - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam Unicorn; Equipment: Beam Saber, Beam Rifle, Shield, Beam Ax, Grenade Launcher; Highly detailed, with a flexible skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "MSN-06S SINANJU VER.KA TITANIUM FINISH - MG 1/100",
+            "detail": "Series: Mobile Suit Gundam Unicorn; Trang bị: Beam Saber, Beam Rifle, Shield, Beam Axe, Grenade Launcher; Độ chi tiết cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "RX_78_2_GUNDAM_PG" : {
+        "en": {
+            "header": "RX-78-2 GUNDAM (PG -1/60)",
+            "detail": "Belonging to Series: Mobile Suit Gundam; Equipment: Beam Rifle, Beam Saber, Shield; Armor has many openable positions, very beautiful Extremely high detail, has a flexible moving skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "RX-78-2 GUNDAM (PG -1/60)",
+            "detail": "Thuộc Series: Mobile Suit Gundam; Trang bị: Beam Rifle, Beam Saber, Shield; Giáp có nhiều vị trí mở được, rất đẹp mắtĐộ chi tiết cực cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    },
+    "STRIKE_FREEDOM_GUNDAM_PG" : {
+        "en": {
+            "header": "STRIKE FREEDOM GUNDAM (PG - 1/60)",
+            "detail": "Belonging to Series: Mobile Suit Gundam SEED; Equipment: Beam Rifle x2, Railgun x2, Super Dragoon x8, Beam Shield; Beam Rifles can be combined; The ultimate Strike Freedom Gundam model, and featuring design tweaks by Katoki Hajime; When the way Super Dragoon unfolds, the size of the model will increase significantly, extremely majestic and beautiful; With LED lights; Comes with a large base to support shaping; Extremely high detail, has a flexible moving skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "STRIKE FREEDOM GUNDAM (PG - 1/60)",
+            "detail": "Thuộc Series: Mobile Suit Gundam SEED; Trang bị: Beam Rifle x2, Railgun x2, Super Dragoon x8, Beam Shield; Beam Rifle có thể kết hợp lại với nhau; Mẫu Strike Freedom Gundam tuyệt vời nhất, và có sự tinh chỉnh thiết kế của Katoki Hajime; Khi cách Super Dragoon mở ra, kích thước của mô hình sẽ tăng lên đáng kể, vô cùng hoành tráng và đẹp mắt; Có đèn LED; Kèm đế lớn hỗ trợ tạo dáng; Độ chi tiết cực cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "UNICORN_GUNDAM_PG" : {
+        "en": {
+            "header": "UNICORN GUNDAM (PG - 1/60)",
+            "detail": "Belonging to Series: Mobile Suit Gundam Unicorn; Equipment: Beam Magnum x1, Beam Magnum backup cartridge x1, Beam gatling gun x2, Beam saber x4, Beam bazooka x1, Shield x1; The transition from Unicorn Mode to Destroy Mode, including the face swap, is perfectly rendered and smooth; The entire red Psycho Frame is made from special light-sensitive plastic, creating a beautiful highlight for the armor when light shines on; Blade Antenna has a magnetic magnet, which helps this horn stay in place, preserving its beauty when Unicorn Mode. The inside of the Blade Antenna is plated with metallic gold; The range of motion of the elbow and knee joints is maximized without losing shape; Beam Gatling Gun can be combined with Shield; Comes with a large stand to help with posing; Extremely high detail, has a flexible moving skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "UNICORN GUNDAM (PG - 1/60)",
+            "detail": "Thuộc Series: Mobile Suit Gundam Unicorn; Trang bị: Beam Magnum x1, Beam Magnum backup cartridge x1, Beam gatling gun x2, Beam saber x4, Beam bazooka x1, Shield x1; Quá trình chuyển dạng từ Unicorn Mode sang Destroy Mode, bao gồm cả phần đổi mặt được tái hiện hoàn hảo và mượt mà; Toàn bộ phần Psycho Frame đỏ được làm từ nhựa đặc biệt nhạy sáng, tạo ra điểm nhấn đẹp mắt cho bộ giáp khi có ánh sáng chiếu vào; Blade Antenna có nam châm từ tính, giúp phần sừng này giữ im vị trí, bảo toàn vẻ đẹp khi Unicorn Mode. Phía bên trong Blade Antenna được mạ vàng ánh kim; Biên độ cử động khớp khuỷu tay và đầu gối được mở rộng tối đa mà không làm mất dáng; Beam Gatling Gun có thể kết hợp với Shield; Kèm đế dựng lớn trợ giúp tạo dáng; Độ chi tiết cực cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "GUNDAM_ASTRAY_RED_FRAME_KAI_PG" : {
+        "en": {
+            "header": "GUNDAM ASTRAY RED FRAME KAI (PG - 1/60)",
+            "detail": "Belonging to Series: Mobile Suit Gundam SEED; Equipment: Gerbera Straight, Tiger Pierce, Tactical Arms IIL; Tactical Arms IIL fully transforms V form, Flight Form, Delta Form, Sword Form, Arrow Form, Work Form; The two Gerbera Straight and Tiger Pierce bars are beautifully shaped, full of scabbards. The blade is plated with metallic luster; Shoulders can move forward more, widening the range; The elbows are multi-joint, allowing for complex poses such as drawing a sword; The abdomen is movable; Knee armor is designed for movement with the body shape, muscles stretch beautifully; With LED light Comes with a stand to support posing; Extremely high detail, has a flexible moving skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "GUNDAM ASTRAY RED FRAME KAI (PG - 1/60)",
+            "detail": "Thuộc Series: Mobile Suit Gundam SEED; Trang bị: Gerbera Straight, Tiger Pierce, Tactical Arms IIL; Tactical Arms IIL biến đổi được đầy đủ các dạng V form, Flight Form, Delta Form, Sword Form, Arrow Form, Work Form; Hai thanh Gerbera Straight, Tiger Pierce được tạo hình siêu đẹp, đầy đủ bao kiếm. Lưỡi kiếm được mạ ánh kim; Phần vai có thể di chuyển tới trước nhiều hơn, mở rộng biên độ; Khuỷu tay được làm kiểu đa khớp, giúp tạo được nhiều thế phức tạp như rút kiếm; Phần bụng chuyển động được; Giáp đầu gối được thiết kế cho chuyển động cùng với dáng cơ thể, cơ bắp co duỗi đẹp mắt; Có đèn LEDKèm đế dựng hỗ trợ tạo dáng; Độ chi tiết cực cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "UNICORN_GUNDAM_02_BANSHEE_NORN_PG" : {
+        "en": {
+            "header": "UNICORN GUNDAM 02 BANSHEE NORN (PG - 1/60)",
+            "detail": "Belonging to Series: Mobile Suit Gundam Unicorn; Equipment: Beam Magnum (with Revolving Launcher), Shield (Armed Armor DE), Armed Armor XC, Beam Jutte, Beam Saber x2; The transition from Unicorn Mode to Destroy Mode, including the face swap, is perfectly rendered and smooth; The entire golden Psycho Frame is made from special light-sensitive plastic, creating a beautiful highlight for the armor when light shines on; Blade Antenna has a magnetic magnet, which helps this horn stay in place, preserving its beauty when Unicorn Mode. The inside of the Blade Antenna is plated with metallic gold; The range of motion of the elbow and knee joints is maximized without losing shape; Armed Armor XC's lion mane has been recreated with beautiful metallic gold cast parts; Revolving Launcher can be mounted under the Beam Magnum; Armed Armor DE is impressively collapsible and can be mounted on the back; Side-mounted auxiliary magazine; Weapons can be placed on large bases; Comes with a large stand to help with posing; Extremely high detail, has a flexible moving skeleton. Assembled in a click-fit style, no glue required."
+        },
+        "vi":{
+            "header": "UNICORN GUNDAM 02 BANSHEE NORN (PG - 1/60)",
+            "detail": "Thuộc Series: Mobile Suit Gundam Unicorn; Trang bị: Beam Magnum (có Revolving Launcher), Shield (Armed Armor DE), Armed Armor XC, Beam Jutte, Beam Saber x2; Quá trình chuyển dạng từ Unicorn Mode sang Destroy Mode, bao gồm cả phần đổi mặt được tái hiện hoàn hảo và mượt mà; Toàn bộ phần Psycho Frame vàng được làm từ nhựa đặc biệt nhạy sáng, tạo ra điểm nhấn đẹp mắt cho bộ giáp khi có ánh sáng chiếu vào; Blade Antenna có nam châm từ tính, giúp phần sừng này giữ im vị trí, bảo toàn vẻ đẹp khi Unicorn Mode. Phía bên trong Blade Antenna được mạ vàng ánh kim; Biên độ cử động khớp khuỷu tay và đầu gối được mở rộng tối đa mà không làm mất dáng; Bờm sư tử Armed Armor XC được tái tạo với các part đúc màu vàng ánh kim siêu đẹp; Revolving Launcher có thể gắn ở phía dưới Beam Magnum; Armed Armor DE có thể xếp mở ấn tượng, gắn được sau lưng; Băng đạn phụ có thể gắn bên hông; Vũ khí có thể để lên base lớn; Kèm đế dựng lớn trợ giúp tạo dáng; Độ chi tiết cực cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán."
+        }
+    },
+    "RX_78_2_GUNDAM_PG_UNLEASHED" : {
+        "en": {
+            "header": "RX-78-2 GUNDAM PG UNLEASHED 1/60",
+            "detail": "Belonging to Series: Mobile Suit Gundam; Equipment: Beam Saber, Shield; New generation design, assemble the whole from the inside out instead of assembling each part; Large, multiple and smooth motion joint system; The LED system has the ability to change color; Super detailed multi-layer skeleton; There are metallic parts and super beautiful metal parts; Extremely high detail, has a flexible moving skeleton. Assembled in a click-fit style, no glue required"
+        },
+        "vi":{
+            "header": "RX-78-2 GUNDAM PG UNLEASHED 1/60",
+            "detail": "Thuộc Series: Mobile Suit Gundam; Trang bị: Beam Saber, Shield; Thiết kế thế hệ mới, ráp tổng thể từ trong ra ngoài thay vì ráp từng bộ phận; Hệ thống khớp chuyển động lớn, nhiều và mượt mà; Hệ thống đèn LED có khả năng đổi màu; Khung xương đa lớp siêu chi tiết; Có part ánh kim và part kim loại siêu đẹp; Độ chi tiết cực cao, có khung xương chuyển động linh hoạt. Ráp theo kiểu bấm khớp, không cần dùng keo dán"
+        }
+    }
+}

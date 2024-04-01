@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="./assets/images/logo.png">
+    <title>Gundam Shop</title>
+    <link rel="stylesheet" type="text/css" href="./assets/css/fontawesome.all.min.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.min.css">
+    <script type="text/javascript" src="./assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./assets/js/jquery-3.6.0.min.js"></script>
+    <!-- chuyen doi da ngon ngu -->
+    <script type="text/javascript" src="./assets/js/get.json.js"></script>
+    <script type="text/javascript" src="./assets/js/Language/nav.header.language.js"></script>
+    <script type="text/javascript" src="./assets/js/Language/sub.product.js"></script>
+    <!-- nav footer -->
+    <script type="text/javascript" src="./assets/js/navfooter/nav.js"></script>
+    <script type="text/javascript" src="./assets/js/navfooter/footer.js"></script>
+</head>
+
+<body style="background-color: #FAF4E9;">
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: #e3f2fd">
+    </nav>
+
+    <main class="container my-5" style="background-color: #E3F2FD; border-radius: 12px; box-shadow:  0 0 12px #999999;">
+        <!-- Phan details product -->
+        <section>
+            <div class="container">
+                <div class="row pt-4 pb-4">
+                    <div class="col-md-5">
+
+                        <img class="card-img-top" id="img-card"
+                            src="./assets/images/products/flip_flop_slippers/campus_black_round_toe_thong_style_flip_flops_.png">
+                    </div>
+
+                    <div class="col-md-7">
+                        <p class="text-left mt-3" style="color: green; font-weight: bold;">NEW</p>
+                        <h1 class="mt-2 mb-2 text-capitalize" id="titleSP"></h1>
+                        <p id="contentProduct" class="mt-5" style="font-weight: lighter; font-size: 20px;">Lorem, ipsum
+                            dolor sit amet consectetur adipisicing elit. Odit tenetur corrupti, nulla cupiditate,
+                            molestiae, hic distinctio minus laborum atque aliquid ullam. Sapiente accusantium saepe
+                            quisquam dolore neque iure velit consectetur?</p>
+                        <p class="price"><span style="font-weight:inherit">USD : 100$</span></p>
+                        <label>Quantily :</label>
+                        <input id="inputnumber" type='number' min='0' max='100' size='3' value='1'
+                            style="height: 25px; width: 50px">
+                        <button id="buy" type="button" class="btn btn-default" style="background: #FE980F;
+                        color: #faf4e9;
+                        font-size: 15px;
+                        margin-left: 20px">
+                            Add to cart</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="footer" class="bg-dark text-white py-5">
+    </footer>
+
+    <div class="d-flex bd-highlight justify-content-between align-items-center p-2">
+        <div class="bd-highlight">
+
+        </div>
+        <div class="bd-highlight align-self-center">
+            <div class="d-flex bd-highlight">
+                <div class="d-flex bd-highlight">
+                    <div class="bd-highlight">
+                        <div class="flex-grow-1 ms-3">
+                            © Copyrights 2022
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bd-highlight ">
+            <div class="d-flex bd-highlight">
+                <div class="mx-2 py-2 bd-highlight">
+                    <a id="eng" href="#en"><span>ENG</span></a>
+                </div>
+                <div class="mx-2 py-2 bd-highlight">
+                    <a id="vie" href="#vi"><span>VIE</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <Script type="text/javascript">
+        $(async () => {
+            $("#img-card").attr({
+                src: localStorage.getItem("product-img"),
+                alt: localStorage.getItem("product-name")
+            });
+
+            vi = await getProductsData("./data/vi.json");
+            en = await getProductsData("./data/en.json");
+
+            let dataProduct;
+
+            $("#titleSP").text(vi.content_products[localStorage.getItem("product-id")].header);
+            $("#contentProduct").text(vi.content_products[localStorage.getItem("product-id")].detail);
+
+            $("#buy").click(() => {
+                let number = parseInt($("#inputnumber").val());
+                if (number == 0) return;
+                let current = parseInt(window.localStorage.getItem(localStorage.getItem("product-id")) ?? "0");
+                let total = current + number;
+                if (total > 100) {
+                    alert("Mỗi mặt hàng chỉ có thể đặt 100 sản phẩm cho ,mỗi đơn hàng. Bạn đã đặt 100 sản phẩm của " + localStorage.getItem("product-name") + " này.");
+                    return;
+                }
+                window.localStorage.setItem(localStorage.getItem("product-id"), total);
+                alert("Đã cập nhật sản phẩm " + localStorage.getItem("product-name") + " với số lượng " + number + " vào giỏ hàng. Số lượng sản phẩm " + localStorage.getItem("product-name") + " đã đặt là " + parseInt(window.localStorage.getItem(localStorage.getItem("product-id"))) + ".");
+            });
+        })
+    </Script>
+
+</body>
+
+</html>

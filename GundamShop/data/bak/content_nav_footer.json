@@ -1,0 +1,46 @@
+{
+    "nav": {
+        "en": {
+            "index": "Home",
+            "product":"Product",
+            "search_value": "Search",
+            "search_button": "Search",
+            "signin": "Sign in",
+            "signup": "Sign up"
+        },
+        "vi": {
+            "index": "Trang chủ",
+            "product":"Sản Phẩm",
+            "search_value": "Tìm Kiếm",
+            "search_button": "Tìm Kiếm",
+            "signin": "Đăng Nhập",
+            "signup": "Đăng Ký"
+        }
+    },
+    "footer": {
+        "en": {
+            "ttshop": "Shoe Shop",
+            "detailttshop": "The shop sells all kinds of gundam models of all types and models for Gundam enthusiasts",
+            "news": "News",
+            "subscriber": "Signup",
+            "aboutus": "About us",
+            "delivery": "Shipment Details",
+            "privacy": "Privacy Policy",
+            "terms": "Terms and condition",
+            "information_web": "Information",
+            "topsale_header" : "Top sale"
+        },
+        "vi": {
+            "ttshop": "Shop Giày",
+            "detailttshop": "Shop chuyên bán các loại mô hình Gundam đủ các thể loại và mẫu mã cho các tính đồ mê Gundam",
+            "news": "Bản tin",
+            "subscriber": "Đăng ký",
+            "aboutus": "Về chúng tôi",
+            "delivery": "Thông tin giao hàng",
+            "privacy": "Chính sách bảo mật",
+            "terms": "Điều khoản và điều kiện",
+            "information_web": "Thông tin",
+            "topsale_header" : "Bán chạy"
+        }
+    }
+}

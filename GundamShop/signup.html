@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="./assets/images/logo.png">
+  <title>Website cho thuê trọ</title>
+  <link rel="stylesheet" type="text/css" href="./assets/css/fontawesome.all.min.css">
+  <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./assets/css/signup.css">
+  
+  <script type="text/javascript" src="./assets/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./assets/js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript" src="./assets/js/navfooter/nav.js"></script>
+</head> 
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: #e3f2fd">
+    </nav>
+
+    <main>
+        <div class="mt-5 container">
+            <form>
+                <div class="row">
+                    <h4>Tài khoản</h4>
+                    <div class="input-group input-group-icon">
+                        <input type="text" placeholder="User Name" />
+                        <div class="input-icon"><i class="fa fa-user"></i></div>
+                    </div>
+                    <div class="input-group input-group-icon">
+                        <input type="password" placeholder="Password" />
+                        <div class="input-icon"><i class="fa fa-key"></i></div>
+                    </div>
+                    <div class="input-group input-group-icon">
+                        <input type="password" placeholder="Retypoe Password" />
+                        <div class="input-icon"><i class="fa fa-key"></i></div>
+                    </div>
+                </div>
+                <div class="row">            
+                    <div class="col-half">
+                        <h4>Loại tài khoản</h4>
+                        <div class="input-group">
+                            <input id="ltk_1" type="radio" name="loai_tk" value="kh" style="width: 10%"/>
+                            <label for="ltk_1">Khách hàng</label> 
+							
+                            <input id="ltk_2" type="radio" name="loai_tk" value="cc" style="width: 10%"/>
+                            <label for="ltk_2">Chính chủ</label> 
+							
+							<input id="ltk_3" type="radio" name="loai_tk" value="mt" style="width: 10%"/>
+                            <label for="ltk_3">Môi giới</label> 
+                        </div>
+                    </div>
+                <div>
+                    <h4>Các điều khoản và điều kiện</h4>
+                    <div class="input-group">
+                        <input id="terms" type="checkbox" />
+                        <label  for="terms">Tôi chấp nhận các điều khoản và điều kiện để đăng ký dịch
+                            vụ này và qua đây xác nhận rằng tôi đã đọc chính sách bảo mật.</label>
+                    </div>
+                </div>
+                <div>
+                    <input type="submit" name="submit" value="Đăng ký">
+                </div>
+            </form>
+        </div>
+    </main>
+
+</body>
+
+</html>

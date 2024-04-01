@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="./assets/images/logo.png" />
+    <title>Gundam Shop</title>
+    <link rel="stylesheet" type="text/css" href="./assets/css/fontawesome.all.min.css"/>
+    <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.min.css"/>
+    <script type="text/javascript" src="./assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./assets/js/jquery-3.6.0.min.js"></script>
+    <!-- chuyen doi ngon ngu -->
+    <script type="text/javascript" src="./assets/js/get.json.js"></script>
+    <script type="text/javascript" src="./assets/js/Language/nav.header.language.js"></script>
+    <script type="text/javascript" src="./assets/js/Language/index.language.js"></script>
+    <!-- nav footer -->
+    <script type="text/javascript" src="./assets/js/navfooter/nav.js"> </script>
+    <script type="text/javascript" src="./assets/js/navfooter/footer.js"></script>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: #e3f2fd">
+    </nav>
+
+    <main class="container my-4">
+      <section id="gallery">
+        <div id="gallery-indicator" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#gallery-indicator" data-bs-slide-to="0" aria-label="0" class="active" aria-current="true"></button>
+            <button type="button" data-bs-target="#gallery-indicator" data-bs-slide-to="1" aria-label="1"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img style="margin-left: 50px;" src=".\assets\images\gundam_iron-blooded_orphans_chinh_hang_nshop_750c54bbd4174abf8a0a2dcaed813107.webp" class="d-block img-fluid" alt="Alba Aragon Koi Albaaragon"/>
+            </div>
+            <div class="carousel-item">
+              <img style="margin-left: 50px;" src=".\assets\images\unicorn_gundam_chinh_hang_nshop_95aef0b840b74735bc15a53d5c5f2887.webp" class="d-block img-fluid" alt="False Percula Clownfish"/>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#gallery-indicator" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#gallery-indicator" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </section>
+
+      <section id="top-sale" class="mt-4">
+        <h4 id="topsale_header" class="font-rubik font-size-20 d-flex justify-content-center mt-5">
+          Bán chạy
+        </h4>
+        <hr/>
+        <div class="row">
+          <div class="col-md-4 col-sm-12 d-flex justify-content-center mt-2">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="./assets/images/products/HD/RGM_79D_GM_COLD_DISTRICTS_TYPE_HGUC.png"
+                alt="RGM 79D GM COLD DISTRICTS TYPE HGUC"
+                onclick="
+                  window.localStorage.setItem('product-img', './assets/images/products/HD/RGM_79D_GM_COLD_DISTRICTS_TYPE_HGUC.png');
+                  window.localStorage.setItem('product-name', 'RGM 79D GM COLD DISTRICTS TYPE HGUC');
+		              window.localStorage.setItem('product-id', 'RGM_79D_GM_COLD_DISTRICTS_TYPE_HGUC');
+                  window.location.href = './sub_product.html';
+                  "/>
+              <div class="card-body">
+                <h5 id="RGM_79D_GM_COLD_DISTRICTS_TYPE_HGUC" class="card-title text-capitalize">
+                  RGM-79D GM COLD DISTRICTS TYPE - HGUC 1/144
+                </h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-12 d-flex justify-content-center mt-2">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="./assets/images/products/HD/PENELOPE_HGUC.png"
+                alt="PENELOPE HGUC"
+                onclick="
+                  window.localStorage.setItem('product-img', './assets/images/products/HD/PENELOPE_HGUC.png');
+		              window.localStorage.setItem('product-name', 'PENELOPE HGUC');
+		              window.localStorage.setItem('product-id', 'PENELOPE_HGUC');
+                  window.location.href = './sub_product.html';
+                  "/>
+              <div class="card-body">
+                <h5 id="PENELOPE_HGUC" class="card-title text-capitalize">
+                  PENELOPE (HGUC - 1/144)
+                </h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-12 d-flex justify-content-center mt-2">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="./assets/images/products/SD/LEIF_GUNDAM_GP04_SDW_HEROES.png"
+                alt="LEIF GUNDAM GP04 SDW HEROES"
+                onclick="
+		              window.localStorage.setItem('product-img', './assets/images/products/SD/LEIF_GUNDAM_GP04_SDW_HEROES.png');
+		              window.localStorage.setItem('product-name', 'LEIF GUNDAM GP04 SDW HEROES');
+		              window.localStorage.setItem('product-id', 'LEIF_GUNDAM_GP04_SDW_HEROES');
+                  window.location.href = './sub_product.html';
+                  "/>
+              <div class="card-body">
+                <h5 id="LEIF_GUNDAM_GP04_SDW_HEROES" class="card-title text-capitalize">
+                  LEIF GUNDAM GP04 - SDW HEROES
+                </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer id="footer" class="bg-dark text-white py-5"> 
+    </footer>
+    
+    <div
+      class="d-flex bd-highlight justify-content-between align-items-center p-2">
+      <div class="bd-highlight"></div>
+      <div class="bd-highlight align-self-center">
+        <div class="d-flex bd-highlight">
+          <div class="d-flex bd-highlight">
+            <div class="bd-highlight">
+              <div class="flex-grow-1 ms-3">© Copyrights 2022</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="bd-highlight">
+        <div class="d-flex bd-highlight">
+          <div class="mx-2 py-2 bd-highlight">
+            <a id="eng" href="#en"><span>ENG</span></a>
+          </div>
+          <div class="mx-2 py-2 bd-highlight">
+            <a id="vie" href="#vi"><span>VIE</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
